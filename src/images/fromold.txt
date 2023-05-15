@@ -1,0 +1,13 @@
+https://www.pngegg.com/ oldalról származnak az bábuk képei.
+átszámozás, 1-től legyen indexelve ne 0-tól.
+önmagyarázó kommentek v hogy mondta a mrkusper
+szakaszbontások egyegy kommentsorral lort alapján
+hibakezelések
+
+helyereék- játékos mindig alul mutatja magát ??
+lépés közben húuzza magával a bűbut, de csak az elengedéskor változzon a poz
+
+submission of game
+
+
+https://stackoverflow.com/questions/57303151/some-part-of-the-image-disappears-when-i-scroll-up-and-down-on-a-jscrollpane oldalról a bábú eltűnés javítása
