@@ -1,1 +1,1 @@
-just a training project
+training project
